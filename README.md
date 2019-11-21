@@ -15,7 +15,20 @@ The goal of this project is to analyze wether certain network centrality measure
   - Write all results to csv file.
   - Compute pairwise correlations between the rankings for each graph type. (Get a baseline to make accurate predictions).
   - Create basic classifier to predict whether a node centrality is in the top 25% bsed on another centrality. Use three different classifiers and use 10 cross-fold validation.
+3. Milestone03 (11/13/2019):
+  - Demonstrate how the scale-free small-world network generated has the three properties of high average clustering, low average distance, and power law degree distribution
+  - Correct errors from Milestone02
+  - Correct the process for 10 cross-fold validation
+  - Add two more centrality measures
+  - Present correlations using heatmaps
+  - Summarize results into a markdown table
+  - Generate 50% more data
+  - Create a research report that has introduction, background, and methods sections.
+4. Milestone04 (11/26/2019):
+  - Address comments in report and make edits
+  - Add a figure to illustrate the complete process
+  - Provide results from classifiers. Utilize a supercomputing cluster to get results faster.
+  - Add a literature survey to background section of the report to discuss related work.
 
-
-This project was completed in Miami University's CSE 470C course taught by Dr. Phillippe Giabbanelli.
+This project was completed in Miami University's CSE 470C Machine Learning course taught by Dr. Phillippe Giabbanelli.
 Contributors: Alex Freund, Jaxson Wirth, Dat Luong
