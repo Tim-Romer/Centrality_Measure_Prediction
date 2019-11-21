@@ -1,0 +1,23 @@
+TIM - Demonstrate that the scale-free small-world network works by showing that the various generated networks have:
+	(i) high average clustering (=compute clustering for each node then average it),
+	(ii) low average distance (=compute shortest path length between all pairs of nodes then average it),
+	(iii) power-law degree distribution (=plot the degree distribution on a log-log scale and show a good fit for a line)
+
+TIM	- Correct the copy/pasted centrality measure
+
+DAT	- Correct the "top 25%"
+
+DAT	- Correct the process. Look at code from Thursday's lab on how to do the 10-fold cross-validation. Within each training portion, perform the balancing. For classifiers with parameters, further sub-divide into training and testing. Use grid search to optimize. We will want three classifiers (optimized via grid search) to ensure that findings are not limited by the choice of classifier.
+
+Alex
+- add two more centrality measures to the mix,
+- present the correlations using heatmaps
+- summarize results in a table
+- generate 50% additional data
+
+
+Report:
+	- Introduction - Dat
+	- Background - Tim
+	- Methods - Jaxson
+	- Revise - Alex
