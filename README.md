@@ -5,7 +5,7 @@ The goal of this project is to analyze wether certain network centrality measure
 
 ## Progress
 
-1. Milestone01 (10/20/2019): 
+1. <strong>Milestone01 (10/20/2019):</strong>
   - Complete Networkx practice notebook.
   - Generate small-world, scale-free, random, and scale-free small-world networks.
 2. Milestone02 (10/30/2019):  
