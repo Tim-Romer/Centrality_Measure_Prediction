@@ -33,5 +33,5 @@ The goal of this project is to analyze wether certain network centrality measure
   - Provide results from classifiers. Utilize a supercomputing cluster to get results faster.
   - Add a literature survey to background section of the report to discuss related work.
   
-Contributors: Alex Freund, Jaxson Wirth, Dat Luong
+Contributors: Alex Freund, Jaxson Wirth, Dat Luong<br>
 This project was completed in Miami University's CSE 470C Machine Learning course taught by Dr. Phillippe Giabbanelli and guidance for the research was provided by Dr. Phillippe Giabbanelli.
