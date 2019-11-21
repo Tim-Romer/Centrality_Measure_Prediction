@@ -18,3 +18,4 @@ The goal of this project is to analyze wether certain network centrality measure
 
 
 This project was completed in Miami University's CSE 470C course taught by Dr. Phillippe Giabbanelli.
+Contributors: Alex Freund, Jaxson Wirth, Dat Luong
