@@ -12,13 +12,13 @@
 
 - Add a "literature survey" subsection (in the background) of about 2 pages single line spacing. The objective of this section is to familiarize yourself with what's already been done in the topic; to convey it to the reader; and to use this information to better frame your own work. Here are a few relevant papers: (ALL)
 
-	https://academic.oup.com/comnet/article/1/1/44/509398 (TIM)
-	https://www.sciencedirect.com/science/article/abs/pii/S1476945X07000189 (TIM)
-	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.2216&rep=rep1&type=pdf (ALEX)
-	https://iopscience.iop.org/article/10.1088/1742-5468/2011/11/P11018/meta (ALEX)
-	https://link.springer.com/article/10.1140/epjb/e2015-50671-y (JAXSON)
-	https://ieeexplore.ieee.org/abstract/document/6713749 (JAXSON)
-	https://arxiv.org/abs/1908.08429 (DAT)
-	https://www.sciencedirect.com/science/article/abs/pii/S0378873316303690 (DAT)
-	https://link.springer.com/chapter/10.1007/978-3-319-18503-3_2
-	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660088/
+	https://academic.oup.com/comnet/article/1/1/44/509398 (TIM) [DONE]
+	https://www.sciencedirect.com/science/article/abs/pii/S1476945X07000189 (TIM) [DONE]
+	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.2216&rep=rep1&type=pdf (ALEX) [DONE]
+	https://iopscience.iop.org/article/10.1088/1742-5468/2011/11/P11018/meta (ALEX) []
+	https://link.springer.com/article/10.1140/epjb/e2015-50671-y (JAXSON) [DONE]
+	https://ieeexplore.ieee.org/abstract/document/6713749 (JAXSON) []
+	https://arxiv.org/abs/1908.08429 (DAT) [DONE]
+	https://www.sciencedirect.com/science/article/abs/pii/S0378873316303690 (DAT) [DONE]
+	https://link.springer.com/chapter/10.1007/978-3-319-18503-3_2 [DONE]
+	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660088/ [DONE]
