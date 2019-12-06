@@ -17,7 +17,7 @@
 	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.169.2216&rep=rep1&type=pdf (ALEX) [DONE]
 	https://iopscience.iop.org/article/10.1088/1742-5468/2011/11/P11018/meta (ALEX) []
 	https://link.springer.com/article/10.1140/epjb/e2015-50671-y (JAXSON) [DONE]
-	https://ieeexplore.ieee.org/abstract/document/6713749 (JAXSON) []
+	https://ieeexplore.ieee.org/abstract/document/6713749 (JAXSON) [DONE]
 	https://arxiv.org/abs/1908.08429 (DAT) [DONE]
 	https://www.sciencedirect.com/science/article/abs/pii/S0378873316303690 (DAT) [DONE]
 	https://link.springer.com/chapter/10.1007/978-3-319-18503-3_2 [DONE]

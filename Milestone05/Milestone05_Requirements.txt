@@ -1,0 +1,78 @@
+- Making Report edits
+
+- Still doing 80:20 split, need to do nested cross-fold validation
+
+- Grid search is run but results aren't implimented.
+
+- Code Duplication issues. Needs to be fixed.
+
+Packaging:
+	- Create Google Drive
+	- Data Folder
+		1. Data Inputs (graph type, node size, plus other features, etc.)
+		2. Data generated
+	- Python notebooks
+		1. Just one, the final one
+	- Redhawk cluster
+		1. All scripts including README
+	- Results
+		1. Correlations
+		2. ML Results
+			a) avg+std for accuracy, precision, recall, best params
+	- Report
+		1. The final report
+		2. Image files
+	-Depreciated
+
+To Clean:
+	- Use nested cross-fold validation from other groups
+	- Address comments from instructor & peers
+	- Move background section to after the intro
+
+To Add:
+	- Results section into report
+		1. Correlations
+		2. Machine Learning
+	- Background Section
+		1. Table summarizing different studies (See email for details)
+		2. Lit review for last two papers that we didnt do
+		3. 2 other papers that should be considered
+	- CSV with input to the ML process
+		1. Data input csv
+
+Must proofread report. 
+
+Responsibilities:
+
+	Tim:
+		- Make edits to the background based on instructor and peers
+		- Proofreading.
+		- Read other two articles.
+		- Find two other articles to read
+		- Add the table to the background highlighting the other papers work
+		- Fix the formatting of the paper
+
+	Jaxson:
+		- Make edits to the methods based on instructor and peers
+		- Complete annotated pdfs missed from the last milestone
+		- Generate the data with the additional features & writing them to csv
+		- Write results section
+		- Update methods section based on the new code that is written
+
+	Alex:
+		- Create final combined drive and manage it.
+		- Impliment nested cross-validation
+		- Edit the code so it uses the results of the grid search
+		- Code duplication + code cleaning
+
+	Dat:
+		- Make edits to intro based on instructor and peers
+		- Complete annotated pdfs missed from the last milestone
+		- Impliment nested cross-validation
+		- Proofread Background section
+
+Group Deadlines:
+	- New data featues due to Alex by Wednesday night
+	- Final Code due to Alex by Thursday night
+	- Report due to Alex for proofreading by Saturday night
+	- Edited report after proofreading due to Alex by Monday night
