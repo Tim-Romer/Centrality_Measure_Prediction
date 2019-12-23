@@ -1,4 +1,4 @@
-# Centrality_Measure_Prediction
+# Centrality Measure Prediction
 Are we just measuring the same social network construct repeatedly?
 
 The goal of this project is to analyze wether certain network centrality measures can be predicted using other centrality measures through different machine learning models.
