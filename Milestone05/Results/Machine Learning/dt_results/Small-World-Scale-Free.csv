@@ -1,0 +1,7 @@
+reach,1.0,1.0,1.0,{"criterion": "gini", "max_depth": 8, "min_samples_leaf": 3}
+harmonic,1.0,1.0,1.0,{"criterion": "gini", "max_depth": 8, "min_samples_leaf": 3}
+page,0.98,0.9562450278440732,0.9639133921411387,{"criterion": "gini", "max_depth": 14, "min_samples_leaf": 7}
+degree,0.9937333333333334,0.9828645328160363,0.9866926322622526,{"criterion": "gini", "max_depth": 16, "min_samples_leaf": 3}
+load,0.9914,0.9836734693877551,0.9812703583061889,{"criterion": "gini", "max_depth": 8, "min_samples_leaf": 3}
+betweenness,0.9914,0.9858349223644783,0.9791666666666666,{"criterion": "gini", "max_depth": 6, "min_samples_leaf": 3}
+closeness,0.9828,0.9595162986330179,0.9722962173681406,{"criterion": "gini", "max_depth": 10, "min_samples_leaf": 5}

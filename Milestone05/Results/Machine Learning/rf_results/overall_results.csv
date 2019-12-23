@@ -1,0 +1,6 @@
+networkType,accuracy,precision,recall
+Scale-Free,0.9602,0.8713,0.8937
+Small-World,0.987,0.9695,0.9766
+Random,0.9942,0.9887,0.9881
+Small-World/Scale-Free,0.9912,0.9801,0.9831
+overall,0.9831,0.9524,0.9604

@@ -1,0 +1,7 @@
+load,0.9959333333333333,0.9054054054054054,0.9548693586698337,{"criterion": "entropy", "max_depth": 8, "min_samples_leaf": 5}
+betweenness,0.9958,0.9031531531531531,0.9524940617577197,{"criterion": "entropy", "max_depth": 6, "min_samples_leaf": 7}
+harmonic,0.9949333333333333,0.9524861878453039,0.9631284916201117,{"criterion": "entropy", "max_depth": 8, "min_samples_leaf": 3}
+closeness,0.9942666666666666,0.9668508287292817,0.9398496240601504,{"criterion": "gini", "max_depth": 6, "min_samples_leaf": 3}
+page,0.9813333333333333,0.8174946004319654,0.8721198156682027,{"criterion": "entropy", "max_depth": 12, "min_samples_leaf": 5}
+degree,0.9013333333333333,0.2553648068669528,0.8380281690140845,{"criterion": "entropy", "max_depth": 4, "min_samples_leaf": 3}
+reach,0.8441333333333333,0.9319026877722298,0.8379023784506638,{"criterion": "gini", "max_depth": 14, "min_samples_leaf": 5}

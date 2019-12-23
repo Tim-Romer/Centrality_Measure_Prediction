@@ -1,0 +1,12 @@
+#!/bin/bash -l
+#PBS -N dd-800
+#PBS -l nodes=1:ppn=24
+#PBS -l walltime=02:00:00
+#PBS -q batch
+#PBS -m abe
+#PBS -j oe
+#Comment - batch job setup complete
+cd NetworkScienceProject/Milestone5/data_generation
+module load anaconda-python3
+source /software/python/anaconda3/etc/profile.d/conda.sh
+python code.py

@@ -3,6 +3,10 @@ Are we just measuring the same social network construct repeatedly?
 
 The goal of this project is to analyze wether certain network centrality measures can be predicted using other centrality measures through different machine learning models.
 
+## Results
+
+To view the results of the project please see the Milestone05 folder. Please see the report for a detailed explanation on the process. The results are in the results folder. Please see the specific readme in the folder for additional details.
+
 ## Progress
 
 <strong>1. Milestone01 (10/20/2019):</strong>
@@ -32,6 +36,14 @@ The goal of this project is to analyze wether certain network centrality measure
   - Add a figure to illustrate the complete process
   - Provide results from classifiers. Utilize a supercomputing cluster to get results faster.
   - Add a literature survey to background section of the report to discuss related work.
-  
+
+<strong>5. Milestone05 (12/12/2019):</strong>
+  - Package data into neat folders such as Data, Notebooks, Cluster Scripts, Results, and Report
+  - Properly utilize nested cross-fold validation
+  - Address comments from peer review
+  - Include a results section with corelations and machine learning results
+  - Add 4 other centrality metrics other than centrality measures
+  - Final Report
+   
 Contributors: Alex Freund, Jaxson Wirth, Dat Luong<br><br>
 This project was completed in Miami University's CSE 470C Machine Learning course taught by Dr. Phillippe Giabbanelli and guidance for the research was provided by Dr. Phillippe Giabbanelli.
